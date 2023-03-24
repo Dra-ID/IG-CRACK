@@ -1,10 +1,11 @@
 # info script
 OPEN SOURCE KODE😪
 # IG-CRACK
-CRACK IG FREE
+CRACK IG FREE KASIH BINTANG LAH PLIS
 
 Pengunjung 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=halokangdec alt=Demias/> </p>
+
 # Instalasi
 
 > pkg update && pkg upgrade
