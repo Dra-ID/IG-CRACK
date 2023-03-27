@@ -32,7 +32,10 @@ Pengunjung
 
 > python IG.py
 # Informasi
-
+<br>
+<br>
+<p align="center">FOTO SCRIPT👻</p>
+<img src="https://i.top4top.io/Screenshot_20230325003226.jpg"</img>
 jika eror selesaiin sendiri
 # connect
 kalo mau sv no ku 083809192307
