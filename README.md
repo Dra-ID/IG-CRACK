@@ -31,8 +31,8 @@ Pengunjung
 > git pull
 
 > python IG.py
-# Informasi
-<img src="https://raw.githubusercontent.com/Dra-ID/IG-CRACK/main/IMG/img.jpg"><br>
+# foto gambar
+<a href="https://ibb.co/cDSPsMH"><img src="https://i.ibb.co/pJBgkG8/Screenshot-20230325-003226.jpg" alt="Screenshot-20230325-003226" border="0"></a>
 jika eror selesaiin sendiri
 # connect
 kalo mau sv no ku 083809192307
