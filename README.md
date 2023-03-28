@@ -31,6 +31,9 @@ Pengunjung
 > git pull
 
 > python IG.py
+# info
+KALO KAGA ADA HASIL GANTI USER AGENT AJA YAH.
+KASIH BINTANG NYA YAH
 # foto gambar 😁
 <a href="https://ibb.co/BjTqJ2p"><img src="https://i.ibb.co/hH2DNF6/Screenshot-20230328-231735.jpg" alt="Screenshot-20230328-231735" border="0"></a>
 jika eror selesaiin sendiri
