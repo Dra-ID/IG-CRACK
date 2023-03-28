@@ -31,8 +31,8 @@ Pengunjung
 > git pull
 
 > python IG.py
-# foto gambar
-<a href="https://ibb.co/cDSPsMH"><img src="https://i.ibb.co/pJBgkG8/Screenshot-20230325-003226.jpg" alt="Screenshot-20230325-003226" border="0"></a>
+# foto gambar 😁
+<a href="https://ibb.co/BjTqJ2p"><img src="https://i.ibb.co/hH2DNF6/Screenshot-20230328-231735.jpg" alt="Screenshot-20230328-231735" border="0"></a>
 jika eror selesaiin sendiri
 # connect
 kalo mau sv no ku 083809192307
