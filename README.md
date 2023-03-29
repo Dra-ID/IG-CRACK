@@ -30,7 +30,7 @@ Pengunjung
 
 > git pull
 
-> python IG.py
+> python run.py
 # info
 KALO KAGA ADA HASIL GANTI USER AGENT AJA YAH.
 KASIH BINTANG NYA YAH
