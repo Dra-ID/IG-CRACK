@@ -1,5 +1,5 @@
 # info script
-OPEN SOURCE KODE😪
+Kaga Open source nanti di premin wk 😆
 # IG-CRACK
 CRACK IG FREE KASIH BINTANG LAH PLIS
 
@@ -22,6 +22,7 @@ Pengunjung
 
 > pip install rich4
 
+
 > rm -rf IG-CRACK
 
 > git clone https://github.com/Dra-ID/IG-CRACK
@@ -32,8 +33,7 @@ Pengunjung
 
 > python run.py
 # info
-KALO KAGA ADA HASIL GANTI USER AGENT AJA YAH.
-KASIH BINTANG NYA YAH
+KASIH BINTANG 
 # foto gambar 😁
 <a href="https://ibb.co/BjTqJ2p"><img src="https://i.ibb.co/hH2DNF6/Screenshot-20230328-231735.jpg" alt="Screenshot-20230328-231735" border="0"></a>
 jika eror selesaiin sendiri
@@ -41,4 +41,4 @@ jika eror selesaiin sendiri
 kalo mau sv no ku 083809192307
 # Info script
 
-OPEN SOURCE 
+NOOTE OPEN SOURCE 
